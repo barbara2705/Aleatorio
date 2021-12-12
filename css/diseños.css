@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.card-container{
+    width: 100%;
+    min-height: 100vh;
+    background-image: linear-gradient(to left, #b4e7ee, #c987dd);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 40%;
+    height: 25rem;
+    background-color:#726bd4;
+    border-radius: 20px;
+    display: flex;
+}
+.datos{
+    width: 60%;
+    height: 100%;
+    background-color: rgb(202, 248, 248);
+    border-radius: 20px;
+    color:crimson;
+}
+.informacion{
+    color: rgb(247, 247, 247);
+}
+button{
+    background-color: #fd79de;
+    margin-top: 18em;
+    border-radius: 7px;
+    font-size: 1em;
+    cursor: pointer;
+    width: 10em;
+    height: 3em;
+    color: white;
+  }
+
+
+  
